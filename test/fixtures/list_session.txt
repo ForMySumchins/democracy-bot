@@ -1,0 +1,52 @@
+           ID                                    Description                                    Repo                Last active                Status         
+ 422405280211485041      ChatJULES: Discord Bot ReliabilitySchedule: WeeklyMode: One…  ForMySumchins/BzzyAnts  4 days ago              Paused         
+ 11928931248667664327    Project: BZZY-SOLUTIONS / BZZY-ANTSTask: BZZY-ANTS-FULL-COD…  ForMySumchins/BzzyAnts  4 days ago              Awaiting Plan A
+ 4049225942457487313     Task title: # JULES: WEEKLY TEST & REPAIR  ROLE: Repository…  ForMySumchins/BzzyAnts  4 days ago              Completed      
+ 13112305701211982078    Task title: # JULES: BZZY Field Operator Development  **Sch…  ForMySumchins/BzzyAnts  2 days ago                             
+ 3496955231597275198     Task title: # JULES: BZZY Field Operator Development  **Sch…  ForMySumchins/BzzyAnts  4 days ago                             
+ 7768062866844053354     Task title: # JULES: WEEKLY TEST & REPAIR  ROLE: Repository…  ForMySumchins/SacredF…  4 days ago                             
+ 6997141815962746174     Task title: JULES: Sacred Fool Mechanics & Persistence Sche…  ForMySumchins/SacredF…  4 days ago              Completed      
+ 13143566474605609705    # JULES: WEEKLY TEST & REPAIR  ROLE: Repository Reliability…  ForMySumchins/Sumchin   4 days ago              Failed         
+ 4194869474056845512     # JULES: Discord Bot Reliability  **Schedule:** Weekly   **…  ForMySumchins/Sumchin   4 days ago              Failed         
+ 9234596094787491062     # JULES: Sacred Fool Mechanics & Persistence  **Schedule:**…  ForMySumchins/Sumchin   4 days ago              Failed         
+ 9203439769303237637     # JULES: BZZY Field Operator Development  **Schedule:** Wee…  ForMySumchins/Sumchin   4 days ago              Failed         
+ 11661073061421227719    [JULES][PLAN ONLY] OTM Community Bot v7 source audit + Call…  ForMySumchins/democra…  4 days ago              Completed      
+ 2408038668027679520     # JULES: WEEKLY PRODUCT DEVELOPMENT  ROLE: Bounded Implemen…  ForMySumchins/Sumchin   5 days ago                             
+ 158552020730444568      # JULES DAILY: Code Health & Regression Guard  **Schedule:*…  ForMySumchins/Sumchin   5 days ago                             
+ 17598413924575065629    # JULES: Security Sentinel  **Schedule:** Weekly   **Mode:*…  ForMySumchins/Sumchin   5 days ago                             
+ 971911671913263331      # JULES: WEEKLY TEST & REPAIR  ROLE: Repository Reliability…  ForMySumchins/Sumchin   5 days ago              Completed      
+ 14978683139757449519    # JULES: Sacred Fool Mechanics & Persistence  **Schedule:**…  ForMySumchins/Sumchin   5 days ago                             
+ 3538174382105308620     # JULES: BZZY Field Operator Development  **Schedule:** Wee…  ForMySumchins/Sumchin   5 days ago              Completed      
+ 16171561886531657824    # JULES: Discord Bot Reliability  **Schedule:** Weekly   **…  ForMySumchins/Sumchin   5 days ago                             
+ 12066018093145317905    Hey Jules                                                     unknown                 6 days ago                             
+ 10757753934621250054    When it comes to tasks, how do you receive them on a baseli…  unknown                 6 days ago                             
+ 15332653377675697035    # JULES: WEEKLY PRODUCT DEVELOPMENT  ROLE: Bounded Implemen…  ForMySumchins/Sumchin   6 days ago                             
+ 941645354034764133      # JULES DAILY: Code Health & Regression Guard  **Schedule:*…  ForMySumchins/Sumchin   6 days ago                             
+ 13336499426374482360    # JULES: Security Sentinel  **Schedule:** Weekly   **Mode:*…  ForMySumchins/Sumchin   6 days ago                             
+ 4289811910512084273     # JULES: WEEKLY TEST & REPAIR  ROLE: Repository Reliability…  ForMySumchins/Sumchin   6 days ago                             
+ 4981388459775120809     # JULES: Sacred Fool Mechanics & Persistence  **Schedule:**…  ForMySumchins/Sumchin   6 days ago                             
+ 4691989297600741630     # JULES: BZZY Field Operator Development  **Schedule:** Wee…  ForMySumchins/Sumchin   6 days ago                             
+ 10055163668313420746    # JULES: Discord Bot Reliability  **Schedule:** Weekly   **…  ForMySumchins/Sumchin   6 days ago                             
+ 12557807135120252663    # JULES: UI & Accessibility Specialist  **Schedule:** Weekl…  ForMySumchins/Sumchin   6 days ago                             
+ 12152069306115110282    # JULES: WEEKLY PRODUCT DEVELOPMENT  ROLE: Bounded Implemen…  ForMySumchins/Sumchin   7 days ago                             
+ 9607827363599014748     # JULES DAILY: Code Health & Regression Guard  **Schedule:*…  ForMySumchins/Sumchin   7 days ago              Completed      
+ 14725723699103198310    # JULES: Security Sentinel  **Schedule:** Weekly   **Mode:*…  ForMySumchins/Sumchin   7 days ago                             
+ 7776978248321925724     # JULES: WEEKLY TEST & REPAIR  ROLE: Repository Reliability…  ForMySumchins/Sumchin   7 days ago              Completed      
+ 3542261462028985987     # JULES: BZZY Field Operator Development  **Schedule:** Wee…  ForMySumchins/Sumchin   7 days ago                             
+ 10316625241923770722    # JULES: Discord Bot Reliability  **Schedule:** Weekly   **…  ForMySumchins/Sumchin   7 days ago              Completed      
+ 16928908032376704172    # JULES: Sacred Fool Mechanics & Persistence  **Schedule:**…  ForMySumchins/Sumchin   7 days ago              Completed      
+ 10859411655453436533    # JULES: WEEKLY PRODUCT DEVELOPMENT  ROLE: Bounded Implemen…  ForMySumchins/Sumchin   8 days ago              Completed      
+ 5805448277160380584     # JULES DAILY: Code Health & Regression Guard  **Schedule:*…  ForMySumchins/Sumchin   8 days ago              Completed      
+ 10642257432016399505    # JULES: Security Sentinel  **Schedule:** Weekly   **Mode:*…  ForMySumchins/Sumchin   8 days ago                             
+ 11604328803305663814    # JULES: WEEKLY TEST & REPAIR  ROLE: Repository Reliability…  ForMySumchins/Sumchin   8 days ago              Completed      
+ 15958601782718086188    # JULES: Discord Bot Reliability  **Schedule:** Weekly   **…  ForMySumchins/Sumchin   8 days ago                             
+ 3940562659230714261     # JULES: BZZY Field Operator Development  **Schedule:** Wee…  ForMySumchins/Sumchin   8 days ago                             
+ 9239752472107036684     # JULES: Sacred Fool Mechanics & Persistence  **Schedule:**…  ForMySumchins/Sumchin   8 days ago              Completed      
+ 9480230805980501757     # JULES: WEEKLY PRODUCT DEVELOPMENT  ROLE: Bounded Implemen…  ForMySumchins/Sumchin   9 days ago                             
+ 15336220988460989362    # JULES DAILY: Code Health & Regression Guard  **Schedule:*…  ForMySumchins/Sumchin   9 days ago              Completed      
+ 9339833214404258194     # JULES: Security Sentinel  **Schedule:** Weekly   **Mode:*…  ForMySumchins/Sumchin   9 days ago                             
+ 9846555682883751104     # JULES: WEEKLY TEST & REPAIR  ROLE: Repository Reliability…  ForMySumchins/Sumchin   9 days ago              Completed      
+ 17533434774822719208    # JULES: Discord Bot Reliability  **Schedule:** Weekly   **…  ForMySumchins/Sumchin   9 days ago                             
+ 12681307203189349256    # JULES: Sacred Fool Mechanics & Persistence  **Schedule:**…  ForMySumchins/Sumchin   9 days ago                             
+ 10834578410746512866    # JULES: BZZY Field Operator Development  **Schedule:** Wee…  ForMySumchins/Sumchin   9 days ago              Completed      
+                                                                                                                                                      

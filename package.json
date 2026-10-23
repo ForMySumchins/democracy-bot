@@ -1,0 +1,15 @@
+{
+  "name": "dumbass-bot",
+  "version": "0.1.0",
+  "description": "Dumbass — Discord-native Jules control plane (First Slice, DUMBASS-KIRO-SLICE-001)",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
